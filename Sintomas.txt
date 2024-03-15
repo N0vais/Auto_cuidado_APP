@@ -1,0 +1,3 @@
+f {data},{ansiedade}, {pensando}
+f {data},{ansiedade}, {pensando}
+f {data},{ansiedade}, {pensando}
